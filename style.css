@@ -1,3 +1,8 @@
 body{
     background:linear-gradient(to right, #ff00c8,#ff0077,#8d0799,#0616f0 );
 }
+
+h1{ 
+    font-size: 70px;
+  color:aliceblue;
+}
